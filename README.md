@@ -2,6 +2,12 @@
 
 An automated task management system built using **Google Sheets and Google Apps Script** to manage recurring tasks, track employee submissions, monitor overdue work, and send automated alerts.
 
+## 🔗 Live Project Demo
+
+**[Click here to view the Working Google Sheet](https://docs.google.com/spreadsheets/d/1qbmCR_DHrkQg25neLN-I6iVfjL3JaGUJZwg1lyYs10w/edit?usp=sharing)**
+
+The Google Sheet serves as the primary operating interface for viewing pending tasks, submitting completion details, monitoring task cycles, and tracking manager alerts and leadership escalations.
+
 ## Features
 
 - **Recurring Task Management:** Automatically generates the next task cycle after a task is completed.
