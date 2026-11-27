@@ -1,4 +1,4 @@
-# Recurring Task Management System
+# Recurring Task Tracking & Escalation Automation 
 
 An automated task management system built using **Google Sheets and Google Apps Script** to manage recurring tasks, track employee submissions, monitor overdue work, and send automated alerts.
 
